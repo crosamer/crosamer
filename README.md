@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammad Adzka Crosamer</h1>
-<h4 align="center">Computer Science student</h4>
+<!-- <h4 align="center">Computer Science student</h4> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crosamer&show_icons=true&theme=dark&locale=en&layout=compact" alt="crosamer" /></p>
 
